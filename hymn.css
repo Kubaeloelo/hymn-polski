@@ -1,0 +1,8 @@
+h1 {color:rgb(255, 0, 0); font-family:"Courier New"; font-size:70px;}
+h3 {
+    color:rgb(0, 0, 0); 
+    font-family:"Times New Roman"; 
+    font-size:45px;
+    cursor: url('cursor.jpg'), pointer;   
+}
+body {background-image: url(https://bestanimations.com/media/poland/1335414508polish-polska-flag-gif-14.gif); background-size: cover;}
